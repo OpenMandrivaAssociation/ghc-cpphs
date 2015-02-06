@@ -4,7 +4,7 @@
 Summary:	A liberalised re-implementation of cpp, the C pre-processor for Haskell
 Name:		ghc-%{module}
 Version:	1.17.1
-Release:	2
+Release:	3
 License:	LGPLv2.1+
 Group:		Development/Other
 Url:		http://hackage.haskell.org/package/%{module}
