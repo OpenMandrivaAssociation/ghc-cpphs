@@ -7,7 +7,7 @@ Version:	1.17.1
 Release:	3
 License:	LGPLv2.1+
 Group:		Development/Other
-Url:		http://hackage.haskell.org/package/%{module}
+Url:		https://hackage.haskell.org/package/%{module}
 Source0:	http://hackage.haskell.org/packages/archive/cpphs/%{version}/%{module}-%{version}.tar.gz
 Source10:	%{name}.rpmlintrc
 BuildRequires:	ghc-devel
